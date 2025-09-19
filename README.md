@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @camij11
+# About Me
 
-<!---
-camij11/camij11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm a recent **Computer Engineering graduate from Politecnico di Milano**.  
+I’ve worked on **software projects and other different experiences**, which helped me build a versatile skill set and a practical approach to problem-solving.  
+Always curious to explore new technologies and ideas!
